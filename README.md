@@ -29,7 +29,7 @@
 
 | Project Name | Key Concepts | Grade |
 |--------------|--------------|-------|
-| ExampleProj1 | C, malloc, free, pointers | 125/100 |
+| Libft | Creating my own C function library, with functions that use malloc, free and pointers | 125/100 |
 | ExampleProj2 | Docker, WebSockets | 100/100 |
 | ExampleProj3 | Game Dev with Unity (C#) | 115/100 |
 | _Add yours!_ | _..._ | _..._ |
