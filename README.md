@@ -30,7 +30,7 @@
 | Project Name | Key Concepts | Grade |
 |--------------|--------------|-------|
 | Libft | Building a custom C library by reimplementing standard functions, some of them with malloc, free, and the use of pointers | 125/100 |
-| ExampleProj2 | Docker, WebSockets | 100/100 |
+| ft_printf | Write a function that mimics the original printf function | 100/100 |
 | ExampleProj3 | Game Dev with Unity (C#) | 115/100 |
 | _Add yours!_ | _..._ | _..._ |
 
