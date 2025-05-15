@@ -30,8 +30,8 @@
 | Project Name | Key Concepts | Grade |
 |--------------|--------------|-------|
 | Libft | Building a custom C library by reimplementing standard functions, some of them with malloc, free, and the use of pointers | 125/100 |
-| ft_printf | Write a function that mimics the original printf function | 100/100 |
-| ExampleProj3 | Game Dev with Unity (C#) | 115/100 |
+| ft_printf | Writing a function that mimics the original printf function | 100/100 |
+| get_next_line | Writing a function in C that reads a file line by line using low-level file descriptors, dynamic memory allocation, and buffer management | 125/100 |
 | _Add yours!_ | _..._ | _..._ |
 
 ---
