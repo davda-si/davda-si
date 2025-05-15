@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm David Almeida
 
-🎓 I'm a student at **42 Lisbon**, currently nearing the end of the program.  
-💡 I've explored many areas of programming, and I'm always eager to learn more.  
-🎮 Passionate about **game development**, with interests spanning **cybersecurity**, **software/app development**, and mastering **multiple programming languages**.
+🎓 I'm a student at **42 Lisbon**, currently working on the last project of the common core.  
+💡 I've explored many areas of programming inside 42, and I'm always eager to learn more, I also want to do the most specifications form the most areas possible.  
+🎮 Passionate about **game development**, with some interest on **cybersecurity**, **software/app development**, and I want to learn more **languages**.
 
 ---
 
@@ -11,7 +11,7 @@
 - 💻 Currently working with: **C**, **C++**, **C#**
 - 🌱 Learning: **JavaScript**, **CSS**
 - 🐳 Experienced with: **Docker**, **Shell scripting**
-- 🌐 Studied **Computer Networks**
+- 🌐 Also studied **Computer Networks and Hardware**
 - 🎯 Always exploring new technologies and paradigms
 
 ---
@@ -24,9 +24,7 @@
 
 ---
 
-## 📚 Projects
-
-Here's a quick overview of some of my work at 42 and beyond:
+## 📚 42 Projects
 
 | Project Name | Key Concepts | Grade |
 |--------------|--------------|-------|
@@ -39,23 +37,8 @@ Here's a quick overview of some of my work at 42 and beyond:
 
 ## 🔗 Links
 
-- [Portfolio](#)
-- [LinkedIn](#)
-- [Twitter](#)
-- [Dev Blog](#)
-- [Itch.io / Game Projects](#)
+
 
 ---
 
 ## 📊 GitHub Stats & Extras
-
-You can add cool widgets with GitHub-readme-stats and other public tools. Here are some examples:
-
-```markdown
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=false)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&margin-w=15)
