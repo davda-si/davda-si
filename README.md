@@ -3,8 +3,6 @@
    <span style="position: relative; top: -1px;">Hey there! I'm David!</span>
 </h1>
 
-# 👋 Hey there! I'm David!
-
 🎓 I'm a student at **42 Lisbon**, currently working on the last project of the common core.  
 💡 I've explored many areas of programming inside 42, and I'm always eager to learn more, I also want to do the most specifications from the most areas possible.  
 🎮 Passionate about **game development**, with some interest on **cybersecurity**, **software/app development**, and I want to learn more **languages**.
