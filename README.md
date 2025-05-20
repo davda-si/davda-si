@@ -12,16 +12,20 @@
 ---
 
 ## 🧠 XP
-
-- 💻 Currently working with: **C**, **C++**, **C#**
-- 🌱 Learning: **JavaScript**, **CSS**
-- 🐳 Experienced with: **Docker**, **Shell scripting**
+### skills:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,docker,git,godot,linux,windows)](https://skillicons.dev)
+### learning:
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,nodejs,html,css)](https://skillicons.dev)
 - 🌐 Also studied **Computer Networks and Hardware**
 - 🎯 Always exploring new technologies and paradigms
 
 ---
 
-## 🕹 Hobbies
+<h1>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWYwMXV3M2czMzhvZG1qcnkwazloZzZvNGJjYXYzZm9qM2JnYnlrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qRzj7c0r0EHqu3oQGb/giphy.gif" width="50" style="vertical-align: middle;">
+  Hobbies
+</h1>
+
 
 - 🛹 Skating & Surfing
 - 🎮 Playing videogames
@@ -32,12 +36,34 @@
 
 ## 📚 42 Projects
 
+<table border="4" align="center">
+  <tr>
+    <th>Project Name</th>
+    <th>Key Concepts</th>
+    <th>Grade</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/davda-si/Libft">Libft</a></b></td>
+    <td><div style="margin: 4px 0;">Custom C library using <code>malloc</code>, <code>free</code>, and pointers</div></td>
+    <td>✔️125%</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/davda-si/Libft">ft_printf</a></b></td>
+    <td>Writing a function that mimics the original printf function</td>
+    <td>✔️125%</td>
+  </tr>
+</table>
+
 | Project Name | Key Concepts | Grade |
 |--------------|--------------|-------|
 | Libft | Building a custom C library by reimplementing standard functions, some of them with malloc, free, and the use of pointers | 125/100 |
 | ft_printf | Writing a function that mimics the original printf function | 100/100 |
 | get_next_line | Writing a function in C that reads a file line by line using low-level file descriptors, dynamic memory allocation, and buffer management | 125/100 |
 | _Add yours!_ | _..._ | _..._ |
+
+<h1 align="center">
+ <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/davda-si?1337Badge=off&UM6P=off" alt="davda-si's 42 stats" /></a>
+</h1>
 
 ---
 
