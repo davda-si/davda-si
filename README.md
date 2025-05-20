@@ -1,7 +1,9 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/oifKB3IrjgeRZzZzrY/giphy.gif?cid=ecf05e47e2qo0l9mwtshmoqo841tbs45nohlpl79tro4m38z&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
-   <span style="position: relative; top: -1px;">Hey there! I'm David!</span>
-</h1>
+<table align="center">
+  <tr>
+    <td><img src="https://media.giphy.com/media/oifKB3IrjgeRZzZzrY/giphy.gif?cid=ecf05e47e2qo0l9mwtshmoqo841tbs45nohlpl79tro4m38z&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></td>
+    <td><h1>Hey there! I'm David!</h1></td>
+  </tr>
+</table>
 
 🎓 I'm a student at **42 Lisbon**, currently working on the last project of the common core.  
 💡 I've explored many areas of programming inside 42, and I'm always eager to learn more, I also want to do the most specifications from the most areas possible.  
