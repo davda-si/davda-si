@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td><img src="https://media.giphy.com/media/oifKB3IrjgeRZzZzrY/giphy.gif?cid=ecf05e47e2qo0l9mwtshmoqo841tbs45nohlpl79tro4m38z&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></td>
-    <td><h1>Hey there! I'm David!</h1></td>
+    <td><h1>Hey there! I'm Davie-chan!</h1></td>
   </tr>
 </table>
 
