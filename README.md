@@ -45,12 +45,12 @@
   <tr>
     <td><b><a href="https://github.com/davda-si/Libft">Libft</a></b></td>
     <td><div style="margin: 4px 0;">Custom C library using <code>malloc</code>, <code>free</code>, and pointers</div></td>
-    <td>✔️125</td>
+    <td>125 ✔️</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/davda-si/Libft">ft_printf</a></b></td>
     <td>Writing a function that mimics the original printf function</td>
-    <td>✔️100</td>
+    <td>100 ✔️</td>
   </tr>
 </table>
 
