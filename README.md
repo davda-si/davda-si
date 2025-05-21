@@ -12,9 +12,9 @@
 ---
 
 ## 🧠 XP
-### skills:
+### Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,docker,git,godot,linux,windows)](https://skillicons.dev)
-### learning:
+### Learning:
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,nodejs,html,css)](https://skillicons.dev)
 - 🌐 Also studied **Computer Networks and Hardware**
 - 🎯 Always exploring new technologies and paradigms
@@ -41,25 +41,103 @@
     <th>Project Name</th>
     <th>Key Concepts</th>
     <th>Grade</th>
-    <th>Delivered at</th>
+    <!--<th>Delivered at</th>-->
   </tr>
-  <tr>
-    <td align="center"><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Libft</a></b></td>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Libft</a></b></td>
     <td><div style="margin: 4px 0;">Custom C library using <code>malloc</code>, <code>free</code>, and pointers</div></td>
     <td>125 ✔️</td>
-    <td align="center">18/05/23</td>
+    <!--<td>18/05/23</td>-->
   </tr>
-  <tr>
-    <td align="center"><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">ft_printf</a></b></td>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">ft_printf</a></b></td>
     <td>Writing a function that mimics the original printf function</td>
     <td>100 ✔️</td>
-    <td align="center">06/07/23</td>
+    <!--<td>06/07/23</td>-->
   </tr>
-  <tr>
-    <td align="center"><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">get_next_line</a></b></td>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">get_next_line</a></b></td>
     <td></td>
     <td>100 ✔️</td>
-    <td align="center">06/07/23</td>
+    <!--<td>06/09/23</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Born2beroot</a></b></td>
+    <td></td>
+    <td>110 ✔️</td>
+    <!--<td>06/09/23</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">so_long</a></b></td>
+    <td></td>
+    <td>125 ✔️</td>
+   <!-- <td>13/10/23</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">push_swap</a></b></td>
+    <td></td>
+    <td>96 ✔️</td>
+   <!-- <td>17/11/23</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">pipex</a></b></td>
+    <td></td>
+    <td>125 ✔️</td>
+    <!--<td>04/01/24</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Philosophers</a></b></td>
+    <td></td>
+    <td>100 ✔️</td>
+    <!--<td>11/03/24</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">minishell</a></b></td>
+    <td></td>
+    <td>101 ✔️</td>
+    <!--<td>08/05/24</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">NetPractice</a></b></td>
+    <td></td>
+    <td>100 ✔️</td>
+    <!--<td>20/05/24</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">CPP Modules 00-04</a></b></td>
+    <td></td>
+    <td>100 ✔️</td>
+    <!--<td>27/06/24</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">cub3d</a></b></td>
+    <td></td>
+    <td>110 ✔️</td>
+    <!--<td>25/09/24</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">CPP Modules 05-09</a></b></td>
+    <td></td>
+    <td>100 ✔️</td>
+   <!-- <td>18/12/24</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Inception</a></b></td>
+    <td></td>
+    <td>101 ✔️</td>
+   <!-- <td>13/02/25</td>-->
+  </tr>
+  <tr align="center">
+    <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">ft_irc</a></b></td>
+    <td></td>
+    <td>100 ✔️</td>
+   <!-- <td>18/04/25</td>-->
+  </tr>
+  <tr align="center">
+    <td><b>ft_transcendence</b></td>
+    <td></td>
+    <td>⚙️ in progress...</td>
+    <!--<td>⚙️</td>-->
   </tr>
 </table>
 
