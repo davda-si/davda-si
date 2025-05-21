@@ -34,8 +34,9 @@
 
 ---
 
-## 📚 42 Projects
+## 📚 Projects
 
+### 42 Projects
 <table border="4" align="center">
   <tr>
     <th>Project Name</th>
@@ -57,13 +58,13 @@
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">get_next_line</a></b></td>
-    <td></td>
+    <td>Writing a function that returns a line read from a file descriptor, using <code>static variables</code></td>
     <td>100 ✔️</td>
     <!--<td>06/09/23</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Born2beroot</a></b></td>
-    <td></td>
+    <td>System Administration related exercise, </td>
     <td>110 ✔️</td>
     <!--<td>06/09/23</td>-->
   </tr>
