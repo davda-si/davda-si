@@ -41,16 +41,25 @@
     <th>Project Name</th>
     <th>Key Concepts</th>
     <th>Grade</th>
+    <th>Delivered at</th>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/davda-si/Libft">Libft</a></b></td>
+    <td align="center"><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Libft</a></b></td>
     <td><div style="margin: 4px 0;">Custom C library using <code>malloc</code>, <code>free</code>, and pointers</div></td>
     <td>125 ✔️</td>
+    <td align="center">18/05/23</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/davda-si/Libft">ft_printf</a></b></td>
+    <td align="center"><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">ft_printf</a></b></td>
     <td>Writing a function that mimics the original printf function</td>
     <td>100 ✔️</td>
+    <td align="center">06/07/23</td>
+  </tr>
+  <tr>
+    <td align="center"><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">get_next_line</a></b></td>
+    <td></td>
+    <td>100 ✔️</td>
+    <td align="center">06/07/23</td>
   </tr>
 </table>
 
