@@ -64,7 +64,7 @@
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Born2beroot</a></b></td>
-    <td>System Administration related exercise, </td>
+    <td>System Administration related exercise</td>
     <td>110 ✔️</td>
     <!--<td>06/09/23</td>-->
   </tr>
