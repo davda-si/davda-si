@@ -70,49 +70,49 @@
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">so_long</a></b></td>
-    <td></td>
+    <td>A small 2D game, where I worked with textures, sprites and other basic gameplay elements.</td>
     <td>125 ✔️</td>
    <!-- <td>13/10/23</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">push_swap</a></b></td>
-    <td></td>
+    <td>Developing a stack-based sorting program using <code>linked lists</code> and a limited set of instructions, implementing a sorting algorithm to minimize operations.</td>
     <td>96 ✔️</td>
    <!-- <td>17/11/23</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">pipex</a></b></td>
-    <td></td>
+    <td>Developing a program that replicates fundamental shell behavior by managing basic <code>input/output redirections</code> and <code>pipes</code> between commands</td>
     <td>125 ✔️</td>
     <!--<td>04/01/24</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Philosophers</a></b></td>
-    <td></td>
+    <td>Developing a program that resolves the Dining Philosophers Problem, where I learned the basics of threading a process: how to create <code>threads</code> and explore the use of <code>mutexes</code>.</td>
     <td>100 ✔️</td>
     <!--<td>11/03/24</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">minishell</a></b></td>
-    <td></td>
+    <td>Developing a simplified UNIX shell that parses and executes user commands, supporting <code>pipes</code>, <code>redirections</code>, <code>environment variables</code>, and basic <code>signal handling</code>, emulating core behaviors of a real shell.</td>
     <td>101 ✔️</td>
     <!--<td>08/05/24</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">NetPractice</a></b></td>
-    <td></td>
+    <td>A general practical exercise to learn the basics of networking. </td>
     <td>100 ✔️</td>
     <!--<td>20/05/24</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">CPP Modules 00-04</a></b></td>
-    <td></td>
+    <td>A series of C++ modules covering object-oriented programming basics like <code>classes</code>, <code>inheritance</code>, <code>polymorphism</code>, <code>memory management</code>, and <code>operator overloading</code>.</td>
     <td>100 ✔️</td>
     <!--<td>27/06/24</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">cub3d</a></b></td>
-    <td></td>
+    <td>Developing a game inspired by Wolfenstein 3D game, exploring ray-casting, creating a dynamic view inside a maze</td>
     <td>110 ✔️</td>
     <!--<td>25/09/24</td>-->
   </tr>
