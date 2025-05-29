@@ -13,7 +13,7 @@
 
 ## 🧠 XP
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,docker,git,godot,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,docker,git,godot,linux,windows,debian)](https://skillicons.dev)
 ### Learning:
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,nodejs,html,css)](https://skillicons.dev)
 - 🌐 Also studied **Computer Networks and Hardware**
@@ -42,42 +42,49 @@
     <th>Project Name</th>
     <th>Key Concepts</th>
     <th>Grade</th>
+    <th>Languages/tech used</th>
     <!--<th>Delivered at</th>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Libft</a></b></td>
     <td><div style="margin: 4px 0;">Custom C library using <code>malloc</code>, <code>free</code>, and pointers</div></td>
     <td>125 ✔️</td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C"</td>
     <!--<td>18/05/23</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">ft_printf</a></b></td>
     <td>Writing a function that mimics the original printf function</td>
     <td>100 ✔️</td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C"</td>
     <!--<td>06/07/23</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">get_next_line</a></b></td>
     <td>Writing a function that returns a line read from a file descriptor, using <code>static variables</code></td>
     <td>100 ✔️</td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C"</td>
     <!--<td>06/09/23</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Born2beroot</a></b></td>
     <td>System administration exercise based on a virtual machine, covering key topics such as <code>LVM</code>, <code>UFW</code>, <code>SSH</code>, and more</td>
     <td>110 ✔️</td>
+    <td><img src="https://skillicons.dev/icons?i=debian,bash" alt="debian and scripting"</td>
     <!--<td>06/09/23</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">so_long</a></b></td>
     <td>A small 2D game, where I worked with textures, sprites and other basic gameplay elements.</td>
     <td>125 ✔️</td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C"</td>
    <!-- <td>13/10/23</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">push_swap</a></b></td>
     <td>Developing a stack-based sorting program using <code>linked lists</code> and a limited set of instructions, implementing a sorting algorithm to minimize operations.</td>
     <td>96 ✔️</td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C"</td>
    <!-- <td>17/11/23</td>-->
   </tr>
   <tr align="center">
