@@ -91,24 +91,29 @@
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">pipex</a></b></td>
     <td>Developing a program that replicates fundamental shell behavior by managing basic <code>input/output redirections</code> and <code>pipes</code> between commands</td>
     <td>125 ✔️</td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C"</td>
     <!--<td>04/01/24</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">Philosophers</a></b></td>
     <td>Developing a program that resolves the Dining Philosophers Problem, where I learned the basics of threading a process: how to create <code>threads</code> and explore the use of <code>mutexes</code>.</td>
     <td>100 ✔️</td>
+    <td><img src="https://skillicons.dev/icons?i=c" alt="C"</td>
     <!--<td>11/03/24</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">minishell</a></b></td>
     <td>Developing a simplified UNIX shell that parses and executes user commands, supporting <code>pipes</code>, <code>redirections</code>, <code>environment variables</code>, and basic <code>signal handling</code>, emulating core behaviors of a real shell.</td>
     <td>101 ✔️</td>
+    <td><img src="https://skillicons.dev/icons?i=c,bash" alt="C and bash"</td>
     <!--<td>08/05/24</td>-->
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">NetPractice</a></b></td>
     <td>A general practical exercise to learn the basics of networking. </td>
     <td>100 ✔️</td>
+    <td><img>![skibidi](https://github.com/user-attachments/assets/5fdac356-fdd1-44b7-8bc4-430738c5de69)
+</td>
     <!--<td>20/05/24</td>-->
   </tr>
   <tr align="center">
