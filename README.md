@@ -118,7 +118,7 @@
   </tr>
   <tr align="center">
     <td><b><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUccmljayBuZXZlciBnb25uYSBnaXZlIHlvdSB1cA%3D%3D">CPP Modules 05-09</a></b></td>
-    <td></td>
+    <td>A series of advanced C++ modules covering topics like <code>inheritance</code>, <code>polymorphism</code>, <code>type casting</code>, <code>STL containers</code>, <code>templates</code>, and <code>functional programming</code>.</td>
     <td>100 ✔️</td>
    <!-- <td>18/12/24</td>-->
   </tr>
