@@ -30,7 +30,7 @@
 - 🛹 Skating & Surfing
 - 🎮 Playing videogames
 - 🧪 Leading and contributing to my school's **Game Dev Club**
-- And most importantly... ✨ **having fun with with friends and with the projects I make!** ✨
+- And most importantly... ✨ **having fun with friends and with the projects I make!** ✨
 
 ---
 
