@@ -178,4 +178,6 @@
 
 ---
 
+<!--
 ## 📊 GitHub Stats & Extras
+-->
