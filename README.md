@@ -46,21 +46,21 @@
     <!--<th>Delivered at</th>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/libft">Libft</a></b></td>
+    <td><b><a href="https://github.com/davda-si/libft" target="_blank">Libft</a></b></td>
     <td><div style="margin: 4px 0;">Custom C library using <code>malloc</code>, <code>free</code>, and pointers</div></td>
     <td>125 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"</td>
     <!--<td>18/05/23</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/ft_printf">ft_printf</a></b></td>
+    <td><b><a href="https://github.com/davda-si/ft_printf" target="_blank">ft_printf</a></b></td>
     <td>Writing a function that mimics the original printf function</td>
     <td>100 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"</td>
     <!--<td>06/07/23</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/get_next_line">get_next_line</a></b></td>
+    <td><b><a href="https://github.com/davda-si/get_next_line" target="_blank">get_next_line</a></b></td>
     <td>Writing a function that returns a line read from a file descriptor, using <code>static variables</code></td>
     <td>100 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"</td>
@@ -74,35 +74,35 @@
     <!--<td>06/09/23</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/so_long">so_long</a></b></td>
+    <td><b><a href="https://github.com/davda-si/so_long" target="_blank">so_long</a></b></td>
     <td>A small 2D game, where I worked with textures, sprites and other basic gameplay elements</td>
     <td>125 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"</td>
    <!-- <td>13/10/23</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/push_swap">push_swap</a></b></td>
+    <td><b><a href="https://github.com/davda-si/push_swap" target="_blank">push_swap</a></b></td>
     <td>Developing a stack-based sorting program using <code>linked lists</code> and a limited set of instructions, implementing a sorting algorithm to minimize operations</td>
     <td>96 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"</td>
    <!-- <td>17/11/23</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/pipex">pipex</a></b></td>
+    <td><b><a href="https://github.com/davda-si/pipex" target="_blank">pipex</a></b></td>
     <td>Developing a program that replicates fundamental shell behavior by managing basic <code>input/output redirections</code> and <code>pipes</code> between commands</td>
     <td>125 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"</td>
     <!--<td>04/01/24</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/philosophers">Philosophers</a></b></td>
+    <td><b><a href="https://github.com/davda-si/philosophers" target="_blank">Philosophers</a></b></td>
     <td>Developing a program that resolves the Dining Philosophers Problem, where I learned the basics of threading a process: how to create <code>threads</code> and explore the use of <code>mutexes</code></td>
     <td>100 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"</td>
     <!--<td>11/03/24</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/J-LG30/minishell">minishell</a></b></td>
+    <td><b><a href="https://github.com/J-LG30/minishell" target="_blank">minishell</a></b></td>
     <td>Developing a simplified UNIX shell that parses and executes user commands, supporting <code>pipes</code>, <code>redirections</code>, <code>environment variables</code>, and basic <code>signal handling</code>, emulating core behaviors of a real shell</td>
     <td>101 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=c,bash" title="C and bash" alt="C and bash"</td>
@@ -117,35 +117,35 @@
     <!--<td>20/05/24</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/CPP00-04">CPP Modules 00-04</a></b></td>
+    <td><b><a href="https://github.com/davda-si/CPP00-04" target="_blank">CPP Modules 00-04</a></b></td>
     <td>A series of C++ modules covering object-oriented programming basics like <code>classes</code>, <code>inheritance</code>, <code>polymorphism</code>, <code>memory management</code>, and <code>operator overloading</code></td>
     <td>100 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++"</td>
     <!--<td>27/06/24</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/cub3d">cub3d</a></b></td>
+    <td><b><a href="https://github.com/davda-si/cub3d" target="_blank">cub3d</a></b></td>
     <td>Developing a game inspired by Wolfenstein 3D game, exploring ray-casting, creating a dynamic view inside a maze</td>
     <td>110 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"</td>
     <!--<td>25/09/24</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/CPP05-09">CPP Modules 05-09</a></b></td>
+    <td><b><a href="https://github.com/davda-si/CPP05-09" target="_blank">CPP Modules 05-09</a></b></td>
     <td>A series of advanced C++ modules covering topics like <code>inheritance</code>, <code>polymorphism</code>, <code>type casting</code>, <code>STL containers</code>, <code>templates</code>, and <code>functional programming</code></td>
     <td>100 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++"</td>
    <!-- <td>18/12/24</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/Inception">Inception</a></b></td>
+    <td><b><a href="https://github.com/davda-si/Inception" target="_blank">Inception</a></b></td>
     <td>System administration project using <code>Docker</code> and <code>Docker Compose</code> to containerize services like <code>NGINX</code>, <code>WordPress</code>, and <code>MariaDB</code></td>
     <td>101 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=docker,bash,nginx,mysql,wordpress" title="docker and docker compose, shell scripts, nginx, mariadb, wordpress" alt="docker and docker compose, shell scripts, nginx, mariadb, wordpress"</td>
    <!-- <td>13/02/25</td>-->
   </tr>
   <tr align="center">
-    <td><b><a href="https://github.com/davda-si/IRC">ft_irc</a></b></td>
+    <td><b><a href="https://github.com/davda-si/IRC" target="_blank">ft_irc</a></b></td>
     <td>Developing an IRC server in <code>C++</code>, fully compatible with an official client</td>
     <td>100 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++"</td>
