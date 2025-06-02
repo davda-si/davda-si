@@ -169,7 +169,7 @@
 ## 🔗 Links & Contacts - Connect with me!
 
 <div>
-  <a href="www.linkedin.com/in/david-almeida-82b85b207" target="_blank" rel="noopener noreferrer">
+  <a href="www.linkedin.com/in/david-almeida-82b85b207/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
