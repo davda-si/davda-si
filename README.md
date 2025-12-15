@@ -5,7 +5,7 @@
   </tr>
 </table>
 
-🎓 I'm a student at **42 Lisbon**, currently working on the last project of the common core.  
+🎓 I'm a student at **42 Lisbon**, I just finished the common core! Currently looking for work and doing specializations from the 42 Outer Core.
 💡 I've explored many areas of programming inside 42, and I'm always eager to learn more, I also want be proficient and specialize in as many areas of programming as possible.  
 🎮 Very interested about **game development**, **cybersecurity**, **software/app development**, and I want to learn more **languages**.
 
@@ -15,7 +15,7 @@
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,docker,git,godot,linux,windows,debian)](https://skillicons.dev)
 ### Learning:
-[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,nodejs,html,css,tailwind,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,nodejs,html,css,tailwind,sqlite,py)](https://skillicons.dev)
 - 🌐 Also studied **Computer Networks and Hardware**
 - 🎯 Always exploring new technologies and paradigms
 
