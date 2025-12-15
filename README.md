@@ -154,7 +154,7 @@
   <tr align="center">
     <td><b>ft_transcendence</b></td>
     <td>Developing a project that is centered around the design, development, and organization of a full-stack web application</td>
-    <td>⚙️ in progress...</td>
+    <td>120 ✔️</td>
     <td><img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,tailwind,sqlite" title="JavaScript, TypeScript, Node.js, html, css, tailwind, sqlite" alt="JavaScript, TypeScript, Node.js, html, css, tailwind, sqlite"</td>
     <!--<td>⚙️</td>-->
   </tr>
