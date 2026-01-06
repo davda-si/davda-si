@@ -6,8 +6,8 @@
 </table>
 
 🎓 I'm a student at **42 Lisbon**, I just finished the common core! Currently looking for work and doing specializations from the 42 Outer Core.
-💡 I've explored many areas of programming inside 42, and I'm always eager to learn more, I also want be proficient and specialize in as many areas of programming as possible.  
-🎮 Very interested about **game development**, **cybersecurity**, **software/app development**, and I want to learn more **languages**.
+I've explored many areas of programming inside 42, and I'm always eager to learn more, I also want be proficient and specialize in as many areas of programming as possible.  
+Very interested about **game development**, **cybersecurity**, **software/app development**, and I want to learn more **languages**.
 
 ---
 
