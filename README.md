@@ -5,7 +5,7 @@
   </tr>
 </table>
 
-🎓 I'm a student at **42 Lisbon**, I just finished the common core! Currently looking for work and doing specializations from the 42 Outer Core.
+I'm a student at **42 Lisbon**, I just finished the common core! Currently looking for work and doing specializations from the 42 Outer Core.
 I've explored many areas of programming inside 42, and I'm always eager to learn more, I also want be proficient and specialize in as many areas of programming as possible.  
 Very interested about **game development**, **cybersecurity**, **software/app development**, and I want to learn more **languages**.
 
@@ -16,8 +16,8 @@ Very interested about **game development**, **cybersecurity**, **software/app de
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,docker,git,godot,linux,windows,debian)](https://skillicons.dev)
 ### Learning:
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,nodejs,html,css,tailwind,sqlite,py)](https://skillicons.dev)
-- 🌐 Also studied **Computer Networks and Hardware**
-- 🎯 Always exploring new technologies and paradigms
+- Also studied **Computer Networks and Hardware**
+- Always exploring new technologies and paradigms
 
 ---
 
@@ -27,9 +27,9 @@ Very interested about **game development**, **cybersecurity**, **software/app de
 </h1>
 
 
-- 🛹 Skating & Surfing
-- 🎮 Playing videogames
-- 🧪 Leading and contributing to my school's **Game Dev Club**
+- Skating & Surfing
+- Playing videogames
+- Leading and contributing to my school's **Game Dev Club**
 - And most importantly... ✨ **having fun with friends and with the projects I make!** ✨
 
 ---
@@ -166,7 +166,7 @@ Very interested about **game development**, **cybersecurity**, **software/app de
 
 ---
 
-## 🔗 Links & Contacts - Connect with me!
+## 🔗 Links & Contacts: Connect with me!
 
 <div>
   <a href="https://www.linkedin.com/in/david-almeida-82b85b207/" target="_blank">
